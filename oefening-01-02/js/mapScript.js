@@ -26,7 +26,6 @@ apMarker.bindPopup("<b>AP-Hogeschool</b><br>Ellermanstraat 33").openPopup();
 
 
 
-
 // bepaal de rechthoek rondom het gebouw van AP
 
 // kleur de rechthoek in met de rode AP-kleur
